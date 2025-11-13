@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/natha/Desktop/Cegep/session_3/TIM/Jeux Video III/Larose_Interact_3/Content/Game/Blueprints/Actor/BP_InteractionParent.uasset"
+				"C:/Users/natha/Desktop/Cegep/session_3/TIM/Jeux Video III/Larose_Interact_3/Content/Game/Blueprints/Actor/BP_InteractionParent.uasset",
+				"C:/Users/natha/Desktop/Cegep/session_3/TIM/Jeux Video III/Larose_Interact_3/Content/Game/UI/WBP_InteractionUI.uasset",
+				"C:/Users/natha/Desktop/Cegep/session_3/TIM/Jeux Video III/Larose_Interact_3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/PR/F7YN1PK6CY5WENXFDQN78B.uasset"
 			]
 		}
 	]
